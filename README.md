@@ -7,6 +7,7 @@
 # Requirements
 - i3 
 - lsd
+- feh
 - rofi
 - polybar
 - zsh
