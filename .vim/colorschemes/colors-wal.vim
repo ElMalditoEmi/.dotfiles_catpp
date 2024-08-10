@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/emiemiemi/.config/wallpaper.png"
+let background = "#121213"
+let foreground = "#c2a6b8"
+let cursor     = "#c2a6b8"
+
+" Colors
+let color0  = "#121213"
+let color1  = "#813768"
+let color2  = "#89403b"
+let color3  = "#97414e"
+let color4  = "#a04476"
+let color5  = "#b34f5b"
+let color6  = "#c16e70"
+let color7  = "#c2a6b8"
+let color8  = "#877480"
+let color9  = "#813768"
+let color10 = "#89403b"
+let color11 = "#97414e"
+let color12 = "#a04476"
+let color13 = "#b34f5b"
+let color14 = "#c16e70"
+let color15 = "#c2a6b8"

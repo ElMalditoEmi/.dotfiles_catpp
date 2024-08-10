@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/emiemiemi/Downloads/wallhaven-8okqe2_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#161112",
+        "foreground": "#d9d3b9",
+        "cursor": "#d9d3b9"
+    },
+    "colors": {
+        "color0": "#161112",
+        "color1": "#978973",
+        "color2": "#A69879",
+        "color3": "#B3A57A",
+        "color4": "#C3B57D",
+        "color5": "#A99C82",
+        "color6": "#B4A985",
+        "color7": "#d9d3b9",
+        "color8": "#979381",
+        "color9": "#978973",
+        "color10": "#A69879",
+        "color11": "#B3A57A",
+        "color12": "#C3B57D",
+        "color13": "#A99C82",
+        "color14": "#B4A985",
+        "color15": "#d9d3b9"
+    }
+}

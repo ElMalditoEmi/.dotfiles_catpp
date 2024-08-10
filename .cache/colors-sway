@@ -1,0 +1,21 @@
+set $wallpaper /home/emiemiemi/.config/wallpaper.png
+
+set $background #121213
+set $foreground #c2a6b8
+
+set $color0 #121213
+set $color1 #813768
+set $color2 #89403b
+set $color3 #97414e
+set $color4 #a04476
+set $color5 #b34f5b
+set $color6 #c16e70
+set $color7 #c2a6b8
+set $color8 #877480
+set $color9 #813768
+set $color10 #89403b
+set $color11 #97414e
+set $color12 #a04476
+set $color13 #b34f5b
+set $color14 #c16e70
+set $color15 #c2a6b8

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/emiemiemi/Downloads/wallhaven-x1pv3d_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f151f",
+        "foreground": "#c1c4ca",
+        "cursor": "#c1c4ca"
+    },
+    "colors": {
+        "color0": "#0f151f",
+        "color1": "#526975",
+        "color2": "#8E7B67",
+        "color3": "#5C7483",
+        "color4": "#677A87",
+        "color5": "#748791",
+        "color6": "#7C8DA3",
+        "color7": "#c1c4ca",
+        "color8": "#87898d",
+        "color9": "#526975",
+        "color10": "#8E7B67",
+        "color11": "#5C7483",
+        "color12": "#677A87",
+        "color13": "#748791",
+        "color14": "#7C8DA3",
+        "color15": "#c1c4ca"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/emiemiemi/Downloads/wallhaven-95yo88_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#13120f",
+        "foreground": "#b5b8ae",
+        "cursor": "#b5b8ae"
+    },
+    "colors": {
+        "color0": "#13120f",
+        "color1": "#545548",
+        "color2": "#645B49",
+        "color3": "#5C6359",
+        "color4": "#6C6854",
+        "color5": "#6C7265",
+        "color6": "#847A5D",
+        "color7": "#b5b8ae",
+        "color8": "#7e8079",
+        "color9": "#545548",
+        "color10": "#645B49",
+        "color11": "#5C6359",
+        "color12": "#6C6854",
+        "color13": "#6C7265",
+        "color14": "#847A5D",
+        "color15": "#b5b8ae"
+    }
+}

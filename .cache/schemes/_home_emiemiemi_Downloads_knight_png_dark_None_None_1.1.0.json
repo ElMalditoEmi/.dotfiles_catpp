@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/emiemiemi/Downloads/knight.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0f0e",
+        "foreground": "#dbd3cb",
+        "cursor": "#dbd3cb"
+    },
+    "colors": {
+        "color0": "#0b0f0e",
+        "color1": "#6A948B",
+        "color2": "#6FD1A8",
+        "color3": "#979D93",
+        "color4": "#B4A89A",
+        "color5": "#BAB0A5",
+        "color6": "#C3B290",
+        "color7": "#dbd3cb",
+        "color8": "#99938e",
+        "color9": "#6A948B",
+        "color10": "#6FD1A8",
+        "color11": "#979D93",
+        "color12": "#B4A89A",
+        "color13": "#BAB0A5",
+        "color14": "#C3B290",
+        "color15": "#dbd3cb"
+    }
+}

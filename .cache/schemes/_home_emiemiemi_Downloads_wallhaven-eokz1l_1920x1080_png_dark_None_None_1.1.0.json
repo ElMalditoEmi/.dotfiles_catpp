@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/emiemiemi/Downloads/wallhaven-eokz1l_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0a07",
+        "foreground": "#a9bc9a",
+        "cursor": "#a9bc9a"
+    },
+    "colors": {
+        "color0": "#0b0a07",
+        "color1": "#4F4420",
+        "color2": "#4C4C27",
+        "color3": "#475130",
+        "color4": "#596831",
+        "color5": "#627637",
+        "color6": "#678539",
+        "color7": "#a9bc9a",
+        "color8": "#76836b",
+        "color9": "#4F4420",
+        "color10": "#4C4C27",
+        "color11": "#475130",
+        "color12": "#596831",
+        "color13": "#627637",
+        "color14": "#678539",
+        "color15": "#a9bc9a"
+    }
+}

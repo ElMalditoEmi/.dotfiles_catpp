@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/emiemiemi/.config/wallpaper.png",
+    "alpha": "100",
+    "special": {
+        "background": "#121213",
+        "foreground": "#c2a6b8",
+        "cursor": "#c2a6b8"
+    },
+    "colors": {
+        "color0": "#121213",
+        "color1": "#6e4a62",
+        "color2": "#76514e",
+        "color3": "#82565d",
+        "color4": "#895b74",
+        "color5": "#9a686e",
+        "color6": "#ac8384",
+        "color7": "#c2a6b8",
+        "color8": "#877480",
+        "color9": "#6e4a62",
+        "color10": "#76514e",
+        "color11": "#82565d",
+        "color12": "#895b74",
+        "color13": "#9a686e",
+        "color14": "#ac8384",
+        "color15": "#c2a6b8"
+    }
+}

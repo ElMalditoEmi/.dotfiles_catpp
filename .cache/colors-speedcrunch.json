@@ -1,0 +1,15 @@
+{
+    "cursor": "#c2a6b8",
+    "number": "#c2a6b8",
+    "parens": "#b34f5b",
+    "result": "#a04476",
+    "comment": "#877480",
+    "matched": "#a04476",
+    "function": "#813768",
+    "operator": "#97414e",
+    "variable": "#89403b",
+    "scrollbar": "#97414e",
+    "separator": "#97414e",
+    "background": "#121213",
+    "editorbackground": "#121213"
+}

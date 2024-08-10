@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/emiemiemi/redes_lab2'
+let g:netrw_dirhist_5='/home/emiemiemi/.config/nvim'
+let g:netrw_dirhist_4='/home/emiemiemi/.cache/wal'
+let g:netrw_dirhist_3='/home/emiemiemi/.config'
+let g:netrw_dirhist_2='/home/emiemiemi/.config/kitty'
+let g:netrw_dirhist_1='/home/emiemiemi/.config/i3'
+let g:netrw_dirhist_0='/home/emiemiemi/.config/polybar'
+let g:netrw_dirhist_9='/home/emiemiemi/.config/i3'
+let g:netrw_dirhist_8='/home/emiemiemi/.zsh'
+let g:netrw_dirhist_7='/home/emiemiemi/.config/polybar'

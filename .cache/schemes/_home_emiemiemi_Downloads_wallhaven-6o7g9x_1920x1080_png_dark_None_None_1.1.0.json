@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/emiemiemi/Downloads/wallhaven-6o7g9x_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#02172E",
+        "foreground": "#d0c9d9",
+        "cursor": "#d0c9d9"
+    },
+    "colors": {
+        "color0": "#02172E",
+        "color1": "#185EB7",
+        "color2": "#596F9F",
+        "color3": "#9C73AF",
+        "color4": "#658DB6",
+        "color5": "#7498C6",
+        "color6": "#9DA3C5",
+        "color7": "#d0c9d9",
+        "color8": "#918c97",
+        "color9": "#185EB7",
+        "color10": "#596F9F",
+        "color11": "#9C73AF",
+        "color12": "#658DB6",
+        "color13": "#7498C6",
+        "color14": "#9DA3C5",
+        "color15": "#d0c9d9"
+    }
+}

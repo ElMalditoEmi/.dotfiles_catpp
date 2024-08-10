@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/emiemiemi/Downloads/wallhaven-zx1low_1920x1080.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0d0e",
+        "foreground": "#bdbbb4",
+        "cursor": "#bdbbb4"
+    },
+    "colors": {
+        "color0": "#0d0d0e",
+        "color1": "#58583b",
+        "color2": "#5e523f",
+        "color3": "#6b5d48",
+        "color4": "#76674f",
+        "color5": "#867759",
+        "color6": "#917f61",
+        "color7": "#bdbbb4",
+        "color8": "#84827d",
+        "color9": "#58583b",
+        "color10": "#5e523f",
+        "color11": "#6b5d48",
+        "color12": "#76674f",
+        "color13": "#867759",
+        "color14": "#917f61",
+        "color15": "#bdbbb4"
+    }
+}
